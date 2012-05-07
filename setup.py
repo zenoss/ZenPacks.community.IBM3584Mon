@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.IBM3584Mon"
 VERSION = "1.1"
 AUTHOR = "Josh Baird & Egor Puzanov"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.IBM3584Mon']
 INSTALL_REQUIRES = ['ZenPacks.community.deviceAdvDetail>=1.1']
